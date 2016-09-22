@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { AppRegistry, ListView, Text, View } from 'react-native';
-import Row from './row';
+import Row from './Row';
 
 class NativeTest extends Component {
   // Initialize the hardcoded data
